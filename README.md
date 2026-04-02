@@ -1,13 +1,12 @@
 # DebateCV
+[![arXiv](https://img.shields.io/badge/arXiv-2508.06059-B31B1B.svg)](https://arxiv.org/abs/2507.19090)
+[![GitHub](https://img.shields.io/badge/GitHub-Fact2Fiction-181717.svg)](https://github.com/TrustworthyComp/DebatingTruth)
 
-This repository contains the official code for the paper:
+This repository contains the implementation of the debate-driven claim verification framework presented in the WWW-2026 paper, "Debating Truth: Debate-driven Claim Verification with Multiple Large Language Model Agents." The framework features two Debaters (Affirmative and Negative) who argue opposing stances, while a Moderator synthesizes the debates into a final verdict.
 
-> **Debating Truth: Debate-driven Claim Verification with Multiple Large Language Model Agents**  
-> Haorui He, Yupeng Li, Dacheng Wen, Yang Chen, Reynold Cheng, Donglong Chen, Francis C. M. Lau  
-> *Proceedings of the ACM Web Conference 2026 (WWW '26)*  
-> [[Paper]](https://arxiv.org/abs/2507.19090)
-
-DebateCV is a debate-driven claim verification framework where two Debaters (Affirmative and Negative) argue opposing stances and a Moderator synthesises the debates into final verdicts. This repository provides the **debate** pipeline.
+## News 🔥
+- 2026-01 🎉 – Accepted by Special Track on Web4Good of the ACM Web Conference 2026 (WWW-2026); see you in Dubai, UAE! 🇦🇪
+- 2025-07 📄 – Preprint released on arXiv.
 
 ## Key Components
 
